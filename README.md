@@ -1,3 +1,3 @@
 # TwoPlayerPongOverNetwork
 Class project
-Rememeber to run player1 first.
+Remember to run player1 first.

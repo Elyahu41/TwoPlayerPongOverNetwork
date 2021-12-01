@@ -1,3 +1,3 @@
 # TwoPlayerPongOverNetwork
-Class project
-Remember to run player1 first.
+Class project.
+Please to run player1.java first.
